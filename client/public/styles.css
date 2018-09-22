@@ -25,13 +25,13 @@
   font-family: "Roboto", "Helvetica", "Arial", sans-serif;
   font-weight: lighter;
   font-size: x-large;
-  padding-top: 3px;
+  padding-top: 12px;
 }
 
 .logo {
   font-weight: lighter;
   font-size: 30px;
-	-webkit-animation: rotation 1s infinite linear;
+	-webkit-animation: rotation 4s infinite;
 }
 
 @-webkit-keyframes rotation {
